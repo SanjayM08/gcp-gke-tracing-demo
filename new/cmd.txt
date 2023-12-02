@@ -1,0 +1,32 @@
+COMMANDS:
+‘gcloud container clusters create’: This command is used to create a 
+new GKE cluster.
+
+‘kubectl get pods’: This command is used to display information about the pods running in a Kubernetes cluster.
+
+‘kubectl apply’: This command is used to apply changes to a Kubernetes cluster, such as deploying new pods or updating configurations.
+
+‘terraform init’: This command is used to initialize a new Terraform project and download any necessary plugins and dependencies.
+31
+
+‘terraform plan’: This command is used to generate an execution plan for a Terraform project, showing which resources will be created, modified, or destroyed.
+
+‘terraform apply’: This command is used to apply the changes specified in a Terraform project to the infrastructure.
+
+‘terraform destroy’: This command is used to destroy all the resources created by a Terraform project.
+
+‘terraform validate’: This command is used to validate the syntax and configuration of a Terraform project.
+
+‘terraform fmt’: This command is used to format the Terraform project's code according to best practices.
+
+‘terraform state’: This command is used to view or modify the state of the infrastructure managed by Terraform.
+
+‘terraform refresh’: This command is used to update the state of a Terraform project to match the current state of the infrastructure.
+
+‘terraform output’: This command is used to display the values of the outputs defined in a Terraform project.
+
+‘terraform import’: This command is used to import existing infrastructure resources into a Terraform project.
+
+‘Haproxy’: This command is used to manage HAProxy, a popular load balancer that can distribute traffic across multiple backend servers.
+
+‘Nginx’: This command is used to manage the NGINX web server, which can also be used as a load balancer.
